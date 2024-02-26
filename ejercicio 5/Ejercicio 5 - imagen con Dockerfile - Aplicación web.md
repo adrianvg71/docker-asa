@@ -29,3 +29,19 @@
 ![image-20240221111005713](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240221111005713.png)
 
 ![image-20240221115322949](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240221115322949.png)
+
+4. Borrar el contenedor
+
+![image-20240226084046414](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226084046414.png)
+
+5. Automatizar estas operaciones creando un fichero Dockerfile
+
+![image-20240226084522544](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226084522544.png)
+
+![image-20240226084455192](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226084455192.png)
+
+![image-20240226085448977](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085448977.png)
+
+![image-20240226085429266](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085429266.png)
+
+![image-20240226085502370](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085502370.png)
