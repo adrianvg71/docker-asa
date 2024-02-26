@@ -12,7 +12,7 @@ Lo primero que haremos será descargar la imagen de portainer con el siguiente c
 $docker pull portainer/portainer
 ```
 
-![image-20240223094904449](./Ejercicio 2 - Portainer.assets/image-20240223094904449.png)
+![image-20240226092248385](./Ejercicio 2 - Portainer.assets/image-20240226092248385.png)
 
 Seguidamente, crearemos un contenedor de docker con la imagen que acabamos de descargar.
 
@@ -20,24 +20,28 @@ Seguidamente, crearemos un contenedor de docker con la imagen que acabamos de de
 $docker run -d -p 9000:9000 --name portainer --restart always -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer
 ```
 
-![image-20240223095127527](./Ejercicio 2 - Portainer.assets/image-20240223095127527.png)
+![image-20240226092409463](./Ejercicio 2 - Portainer.assets/image-20240226092409463.png)
 
-![image-20240223095302036](./Ejercicio 2 - Portainer.assets/image-20240223095302036.png)
+![image-20240226092521251](./Ejercicio 2 - Portainer.assets/image-20240226092521251.png)
 
 **Muestra contenedores activos, para un contenedor, borra un contenedor**
 
-![image-20240226084728220](./Ejercicio 2 - Portainer.assets/image-20240226084728220.png)
+![image-20240226092550470](./Ejercicio 2 - Portainer.assets/image-20240226092550470.png)
 
-El contenedor que borre fue el 'guestbook'.![image-20240226084832100](./Ejercicio 2 - Portainer.assets/image-20240226084832100.png)
+![image-20240226092626118](./Ejercicio 2 - Portainer.assets/image-20240226092626118.png)
+
+El contenedor que borre fue el 'redis'.
 
 **Muestra alguna operación con redes Docker**
 
-![image-20240226085000904](./Ejercicio 2 - Portainer.assets/image-20240226085000904.png)
+![image-20240226092716824](./Ejercicio 2 - Portainer.assets/image-20240226092716824.png)
 
-La operación que hice con las redes, fue la de borrado de la red que utilizaba el contenedor guestbook ya que antes he borrado ese contenedor y ya no la necesito.
+![image-20240226092751843](./Ejercicio 2 - Portainer.assets/image-20240226092751843.png)
+
+La operación que hice con las redes, fue la de borrado de la red que utilizaba el contenedor redis ya que antes he borrado ese contenedor y ya no la necesito.
 
 **Muestra alguna operación con volúmenes Docker**
 
-![image-20240226085337768](./Ejercicio 2 - Portainer.assets/image-20240226085337768.png)
+![image-20240226092109172](./Ejercicio 2 - Portainer.assets/image-20240226092109172.png)
 
 Cree un volumen --> 'dockerVolumen' como operación con los volúmenes.
