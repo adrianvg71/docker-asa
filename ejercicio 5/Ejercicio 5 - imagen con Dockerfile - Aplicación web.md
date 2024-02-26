@@ -45,3 +45,6 @@
 ![image-20240226085429266](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085429266.png)
 
 ![image-20240226085502370](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085502370.png)
+
+![image-20240226091036244](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226091036244.png)
+
