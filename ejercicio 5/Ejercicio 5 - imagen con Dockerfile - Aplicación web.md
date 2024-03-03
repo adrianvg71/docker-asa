@@ -46,6 +46,7 @@
 
 ![image-20240226085502370](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226085502370.png)
 
+<<<<<<< HEAD
 6. Captura de pantalla y documento donde se vea la bajada de la imagen - por parte de otra persona del grupo - y la creación de un contenedor
 
 ![image-20240226100551961](./Ejercicio 5 - imagen con Dockerfile - Aplicación web.assets/image-20240226100551961.png)
@@ -55,3 +56,7 @@
 ![image-20240226101359032](./Ejercicio 5 - imagen con Dockerfile - Aplicación web.assets/image-20240226101359032.png)
 
 ![image-20240226101337876](./Ejercicio 5 - imagen con Dockerfile - Aplicación web.assets/image-20240226101337876.png)
+=======
+![image-20240226091036244](./Ejercicio%205%20-%20imagen%20con%20Dockerfile%20-%20Aplicaci%C3%B3n%20web.assets/image-20240226091036244.png)
+
+>>>>>>> 87b45503e5e5ab02fb1b5723492b7178ff039cf2
